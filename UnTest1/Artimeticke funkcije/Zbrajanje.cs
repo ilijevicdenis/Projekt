@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using UnTest1.Aplikacija;
 
-namespace UnTest1.Artimeticke_funkcije
+namespace UnTest1.Aplikacija
 {
-    class Dijeljenje:Operacija
+    class Zbrajanje : Operacija
     {
         public override void Perform()
         {
-            rezultat = n1 / n2;
+            rezultat = n1 + n2;
         }
     }
-}
+
+ }
+

@@ -7,11 +7,12 @@ using UnTest1.Aplikacija;
 
 namespace UnTest1.Artimeticke_funkcije
 {
-    class Dijeljenje:Operacija
+    class Oduzimanje : Operacija
     {
         public override void Perform()
         {
-            rezultat = n1 / n2;
+            rezultat = n1 - n2;
         }
     }
+
 }

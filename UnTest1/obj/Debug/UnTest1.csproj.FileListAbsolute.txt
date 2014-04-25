@@ -1,0 +1,9 @@
+C:\vsproj\DenisRepo\UnTest1\UnTest1\bin\Debug\UnTest1.exe.config
+C:\vsproj\DenisRepo\UnTest1\UnTest1\obj\Debug\UnTest1.csprojResolveAssemblyReference.cache
+C:\vsproj\DenisRepo\UnTest1\UnTest1\bin\Debug\UnTest1.exe
+C:\vsproj\DenisRepo\UnTest1\UnTest1\bin\Debug\UnTest1.pdb
+C:\vsproj\DenisRepo\UnTest1\UnTest1\bin\Debug\nunit.framework.dll
+C:\vsproj\DenisRepo\UnTest1\UnTest1\bin\Debug\nunit.mocks.dll
+C:\vsproj\DenisRepo\UnTest1\UnTest1\bin\Debug\nunit.framework.xml
+C:\vsproj\DenisRepo\UnTest1\UnTest1\obj\Debug\UnTest1.exe
+C:\vsproj\DenisRepo\UnTest1\UnTest1\obj\Debug\UnTest1.pdb

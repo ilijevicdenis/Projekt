@@ -49,24 +49,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Aplikacija\IzvorisnaKlasa.cs" />
-    <Compile Include="Aplikacija\UnosBrojeva.cs" />
+    <Compile Include="Artimeticke funkcije\Operacija.cs" />
     <Compile Include="Artimeticke funkcije\Dijeljenje.cs" />
     <Compile Include="Artimeticke funkcije\Mnozenje.cs" />
-    <Compile Include="Artimeticke funkcije\Oduzimaj.cs" />
-    <Compile Include="Artimeticke funkcije\Zbrajaj.cs" />
+    <Compile Include="Artimeticke funkcije\Oduzimanje.cs" />
+    <Compile Include="Artimeticke funkcije\Zbrajanje.cs" />
     <Compile Include="Aplikacija\Program.cs" />
-    <Compile Include="Potenciranje\Potenciraj.cs" />
+    <Compile Include="Potenciranje\Potenciranje.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Testovi\Aritmetika\DijeljenjeTest.cs" />
+    <Compile Include="Testovi\Aritmetika\MnozenjeTest.cs" />
+    <Compile Include="Testovi\Aritmetika\OduzimanjeTest.cs" />
+    <Compile Include="Testovi\Aritmetika\ZbrajanjeTest.cs" />
+    <Compile Include="Testovi\Potenciranje\PotenciranjeTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Testovi\Aritmetika\" />
-    <Folder Include="Testovi\Potenciranje\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
